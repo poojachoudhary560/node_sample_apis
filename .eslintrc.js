@@ -16,6 +16,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'no-console': 0
+    'no-console': 0,
+    'comma-dangle': 0
   },
 };
